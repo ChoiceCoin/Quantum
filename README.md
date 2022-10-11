@@ -11,11 +11,23 @@ Our goal is to advance the edge in quantum cryptopgraphy for the purpose of mini
 Quantum computing provides a solution for solving SHA-256 by means other than brute force, which will provide a cost-efficiency improvement in mining.
 
 # Quantum Computing
+
+Quantum mechanics is the scientific discipline concerned with the motion and interaction of subatomic particles. Conceptually, Richard Feynman was the first person to discuss the intuition behind quantum computers, specifically to evolve computers from binary logic to a higher-order logic using quantum mechanical properties. The idea was based on the quantum mechanical principle, superposition. Superposition describes an instance where a subatomic particle occupies two independent spatial positions simultaneously. Feynman’s greatest idea was to exploit this principle to improve computational systems.
+
 A quantum computer is a physical system harnessing quantum effects to perform computation. Quantum computers differ from classical computers because of the way in which they process information. Classical computers process information with bits, a binary representation. However, quantum
 computers process information with qubits, which represent information in a complex vector space.
 
 The qubit is an innovation advancing the goal to improve the efficiency and power of classical computing methodologies with quantum mechanics. A qubit may represent a zero, one, or zero and one simultaneously in a state of superposition. The qubit allows for faster computing and less electrical
 power consumption compared to its classical counterpart.
+
+# Adiabatic Quantum Computers
+Adiabatic quantum computers (AQCs) are supercomputers harnessing natural quantum state evolution to perform computation.   Instead of using Silicon like traditional computer chips, the quantum chip uses a metal called Niobium. The Niobium is looped throughout the chip, connecting the qubits and acting as a superconducting metal where each loop models a quantum spin. The chip is cooled to the near zero Kelvin temperature and becomes a superconductor, a metal with properties including zero electrical resistance and magnetic flux fields. The superconducting properties allow the chip to manipulate quantum mechanical physics and eliminate noise during the computational process. 
+
+# Gate Model Quantum Computers
+The second type of quantum computer is the Gate Model Quantum Computer (GMQC).  In contrast to AQCs, which utilize a quantum state’s natural evolution, GMQCs directly control quantum state evolution.  In this approach, quantum circuits are engineered from electrical and mechanical components to create a computational circuitry using qubits. Further, the qubits are acted upon by sequences of logical gates that are the compiled representation of an algorithm. The GMQC includes two key elements, the quantum circuit and gate transformation.
+
+# Photonic Circuit Board
+Photonic Quantum Computers (PQCs) are the newest type of quantum computer. PQC hardware is developing on research demonstrating a qubit can be represented by polarized photonic spin.   A photon is a single light particle, which has no charge and zero rest mass. The relationship between electron spin and photonic polarization may be explained analogously.  For example, MIT researcher Mihika Prabhu, experimentally demonstrated success for quantum sampling on a PQC.  
 
 # Resources
 [Quantum Patents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554925)
