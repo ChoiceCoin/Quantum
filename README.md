@@ -37,6 +37,12 @@ The second type of quantum computer is the Gate Model Quantum Computer (GMQC).  
 # Photonic Circuit Board
 Photonic Quantum Computers (PQCs) are the newest type of quantum computer. PQC hardware is developing on research demonstrating a qubit can be represented by polarized photonic spin.   A photon is a single light particle, which has no charge and zero rest mass. The relationship between electron spin and photonic polarization may be explained analogously.  For example, MIT researcher Mihika Prabhu, experimentally demonstrated success for quantum sampling on a PQC.  
 
+# Potential Implementations
+
+1. Develop a predictive model to cut the search space and predict the next nonce.
+2. Quantum search algorithm for faster search.
+3. Boltzmann machine for prediction.
+
 # Resources
 [Quantum Patents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554925)
 
