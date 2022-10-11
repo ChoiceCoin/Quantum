@@ -13,7 +13,7 @@ Sub-Problems:
 3. How can the quantum computer be used to solve new blocks faster than classical computing systems?
 
 # Solution Approach
-Our goal is to advance the edge in quantum cryptopgraphy for the purpose of mining digital assets with a quantum computer.
+Our goal is to advance the edge in quantum cryptography for the purpose of mining digital assets with a quantum computer.
 
 # Motivation
 Quantum computing provides a solution for solving SHA-256 by means other than brute force, which will provide a cost-efficiency improvement in mining.
