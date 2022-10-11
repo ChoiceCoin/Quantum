@@ -64,5 +64,5 @@ Photonic Quantum Computers (PQCs) are the newest type of quantum computer. PQC h
 
 [Predictive Quantum Programming](https://tspace.library.utoronto.ca/bitstream/1807/24890/7/Tafliovich_Anya_201006_PhD_thesis.pdf)
 
-
+[Variational Quantum Boltzmann Machines](https://arxiv.org/abs/2006.06004)
 
