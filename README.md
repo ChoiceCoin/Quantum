@@ -2,7 +2,15 @@
 Repository to developing quantum software for cracking SHA-256.
 
 # Problem
-How to solve SHA-256 with a quantum computer.
+Main Problem: How to solve SHA-256 with a quantum computer.
+
+Sub-Problems:
+
+1. How is the the cryptographic problem broadcast to the Bitcoin network to validate new blocks?
+
+2. How are guesses submitted to the Bitcoin network to validate new blocks?
+
+3. How can the quantum computer be used to solve new blocks faster than classical computing systems?
 
 # Solution Approach
 Our goal is to advance the edge in quantum cryptopgraphy for the purpose of mining digital assets with a quantum computer.
