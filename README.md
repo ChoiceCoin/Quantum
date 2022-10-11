@@ -10,6 +10,10 @@ Our goal is to advance the edge in quantum cryptopgraphy for the purpose of mini
 # Motivation
 Quantum computing provides a solution for solving SHA-256 by means other than brute force, which will provide a cost-efficiency improvement in mining.
 
+# Quantum Computing
+A quantum computer is a physical system harnessing quantum effects to perform computation. Quantum computers differ from classical computers because of the way in which they process information. Classical computers process information with bits, a binary representation. However, quantum
+computers process information with qubits, which represent information in a complex vector space.
+
 # Resources
 [Quantum Patents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554925)
 
