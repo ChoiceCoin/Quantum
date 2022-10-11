@@ -47,3 +47,5 @@ Photonic Quantum Computers (PQCs) are the newest type of quantum computer. PQC h
 [Search Sample Equivalence](https://arxiv.org/abs/1009.5104)
 
 [Accelerating recurrent Ising machines in photonic integrated circuits](https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-5-551&id=431845)
+
+[Towards optimal capacity-achieving transceivers with photonic integrated circuits](https://dspace.mit.edu/handle/1721.1/115725)
