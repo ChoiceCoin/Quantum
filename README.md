@@ -14,6 +14,9 @@ Quantum computing provides a solution for solving SHA-256 by means other than br
 A quantum computer is a physical system harnessing quantum effects to perform computation. Quantum computers differ from classical computers because of the way in which they process information. Classical computers process information with bits, a binary representation. However, quantum
 computers process information with qubits, which represent information in a complex vector space.
 
+The qubit is an innovation advancing the goal to improve the efficiency and power of classical computing methodologies with quantum mechanics. A qubit may represent a zero, one, or zero and one simultaneously in a state of superposition. The qubit allows for faster computing and less electrical
+power consumption compared to its classical counterpart.
+
 # Resources
 [Quantum Patents](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3554925)
 
