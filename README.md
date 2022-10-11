@@ -66,6 +66,6 @@ Photonic Quantum Computers (PQCs) are the newest type of quantum computer. PQC h
 
 [Variational Quantum Boltzmann Machines](https://arxiv.org/abs/2006.06004)
 
-[Quantum Generative Adversarial Networks for learning and loading random distributions](https://www.nature.com/articles/s41534-019-0223-2)
+[Quantum Generative Adversarial Networks for Learning and Loading Random Distributions](https://www.nature.com/articles/s41534-019-0223-2)
 
 
