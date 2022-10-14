@@ -47,6 +47,8 @@ Adiabatic quantum computers (AQCs) are supercomputers harnessing natural quantum
 
 [Blockchain Post-Quantum Security and Legal Economics](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3444695)
 
+[Proof of the Birch Swinnerton-Dyer Conjecture](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3673750)
+
 [Search Sample Equivalence](https://arxiv.org/abs/1009.5104)
 
 [Accelerating recurrent Ising machines in photonic integrated circuits](https://opg.optica.org/optica/fulltext.cfm?uri=optica-7-5-551&id=431845)
