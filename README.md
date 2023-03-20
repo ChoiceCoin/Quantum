@@ -21,6 +21,8 @@ Quantum computing provides a solution for solving SHA-256 by means other than br
 # Demos
 [Choice Coin Quantum Demo #1](https://www.youtube.com/watch?v=XVAXs1QZInc)
 
+[Choice Coin Quantum Demo #2](https://www.youtube.com/watch?v=AzvABvFRKb4)
+
 # Quantum Computing
 
 Quantum mechanics is the scientific discipline concerned with the motion and interaction of subatomic particles. Conceptually, Richard Feynman was the first person to discuss the intuition behind quantum computers, specifically to evolve computers from binary logic to a higher-order logic using quantum mechanical properties. The idea was based on the quantum mechanical principle, superposition. Superposition describes an instance where a subatomic particle occupies two independent spatial positions simultaneously. Feynman’s greatest idea was to exploit this principle to improve computational systems.
