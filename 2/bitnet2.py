@@ -11,6 +11,7 @@ from binascii import unhexlify, hexlify
 from datetime import datetime
 
 # load data from csv file into a pandas dataframe
+# reach out for .csv files.
 df = pd.read_csv("train.csv")
 id_data = df["id"].values
 nonce_data = df["nonce"].values
